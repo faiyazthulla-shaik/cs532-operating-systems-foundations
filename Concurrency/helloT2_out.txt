@@ -1,0 +1,51 @@
+Tue Nov  8 11:06:29 PM PST 2022
+./helloT2 1
+User requested 1 threads
+Thread 1 result is 1
+./a.out 5
+User requested 5 threads
+Thread 1 result is 1
+Thread 2 result is 2
+Thread 3 result is 6
+Thread 4 result is 24
+Thread 5 result is 120
+./a.out 15
+User requested 15 threads
+Thread 2 result is 2
+Thread 1 result is 1
+Thread 3 result is 6
+Thread 4 result is 24
+Thread 5 result is 120
+Thread 6 result is 720
+Thread 7 result is 5040
+Thread 9 result is 362880
+Thread 8 result is 40320
+Thread 10 result is 3628800
+Thread 12 result is 479001600
+Thread 11 result is 39916800
+Thread 13 result is 6227020800
+Thread 14 result is 87178291200
+Thread 15 result is 1307674368000
+.a.out 2 25
+User requested 25 threads
+Thread 1 result is 1
+Thread 2 result is 2
+Thread 3 result is 6
+Thread 4 result is 24
+Thread 5 result is 120
+Thread 7 result is 5040
+Thread 6 result is 720
+Thread 8 result is 40320
+Thread 9 result is 362880
+Thread 10 result is 3628800
+Thread 11 result is 39916800
+Thread 12 result is 479001600
+Thread 13 result is 6227020800
+Thread 14 result is 87178291200
+Thread 15 result is 1307674368000
+Thread 16 result is 20922789888000
+Thread 17 result is 355687428096000
+Thread 18 result is 6402373705728000
+Thread 19 result is 121645100408832000
+Thread 20 result is 2432902008176640000
+Tue Nov  8 11:09:55 PM PST 2022
